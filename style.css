@@ -310,7 +310,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  border-radius: 18px;
+  border-radius: 28px;
   overflow: hidden;
   position: relative;
   background: #151515;
